@@ -31,15 +31,15 @@ Hi, I'm Juan Portilla a Software Full Stack Developer 🚀 from Colombia, recent
 
 **Languages and Tools:**
 
-<code><img height="20" alt="Javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" alt="React" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" alt="Node" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" alt="Python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" alt="MySQL" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" alt="Git" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" alt="Terminal" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-<code><img height="20" alt="JQuery" src="https://icons-for-free.com/iconfiles/png/512/logo+icon-1320190791807406540.png"></code>
-<code><img height="20" alt="PHP" src="https://cdn3.iconfinder.com/data/icons/popular-services-brands/512/php-512.png"></code>
-<code><img height="20" alt="HTML5"src="https://icons-for-free.com/iconfiles/png/512/develop+html+language+layout+markup+programming+icon-1320165729268863150.png"></code>
-<code><img height="20" alt="CSS3" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_960_720.png"></code>
-<code><img height="20" alt="Maintenance" src="https://s3-eu-west-2.amazonaws.com/bd-production-two/benjohnson/uploads/2018/01/19184928/Our-Approach-Blue-Icon.png"></code>
+<code><img height="20" title="Javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" title="React" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" title="Node" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" title="Python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" title="MySQL" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="20" title="Git" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" title="Terminal" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+<code><img height="20" title="JQuery" src="https://icons-for-free.com/iconfiles/png/512/logo+icon-1320190791807406540.png"></code>
+<code><img height="20" title="PHP" src="https://cdn3.iconfinder.com/data/icons/popular-services-brands/512/php-512.png"></code>
+<code><img height="20" title="HTML5" src="https://icons-for-free.com/iconfiles/png/512/develop+html+language+layout+markup+programming+icon-1320165729268863150.png"></code>
+<code><img height="20" title="CSS3" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_960_720.png"></code>
+<code><img height="20" title="Maintenance" src="https://s3-eu-west-2.amazonaws.com/bd-production-two/benjohnson/uploads/2018/01/19184928/Our-Approach-Blue-Icon.png"></code>
