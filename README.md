@@ -27,6 +27,7 @@ Hi, I'm Juan Portilla a Software Full Stack Developer 🚀 from Colombia, recent
 - 📝 [Resume](https://drive.google.com/file/d/1S0iwwweiYGrcZ6KfJCnBFFkDP5TjZcI0/view?usp=sharing);
 - ⚡️ [Certifications](https://drive.google.com/drive/folders/1ZFPiIJMITYd-HenxP1KhhyC5tlkwv9yg?usp=sharing);
 - 📈 [UserStats](https://coderstats.net/github/#Jdpa357)
+- 💎 [EfsetCertificate](https://www.efset.org/cert/JyCmaK)
 
 **Languages and Tools:**
 
