@@ -1,4 +1,4 @@
-### Hey , I'm [Juan](https://www.linkedin.com/in/jdpa352)
+### Hey 👋🏽, I'm [Juan](https://www.linkedin.com/in/jdpa352)
 
 <br/>
 
@@ -13,18 +13,20 @@
 </a>
 
 <br />
+<br />
 
-Hi, I'm Juan Portilla a Software Full Stack Developer from Colombia, recently graduated from Holberton School of Software Development computer science Foundations, And a certified Technologist on Software Analisis and Development from the Servicio Nacional de Aprendizaje (SENA Colombia). Besides programming i enjoy annoying my pet and walking out with her!
+Hi, I'm Juan Portilla a Software Full Stack Developer 🚀 from Colombia, recently graduated from Holberton School of Software Development computer science Foundations 👨🏽‍💻, And a certified Technologist on Software Analisis and Development from the Servicio Nacional de Aprendizaje (SENA Colombia). Besides programming i enjoy annoying my pet and walking out with her 🐕!
 
-	<img align="right" alt="GIF" src="https://giphy.com/gifs/programming-holbertonschool-hippocampoier-U6GtKidGrwnOTLQew9" />
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/U6GtKidGrwnOTLQew9/giphy.gif" />
 
 **Talking about some Personal Stuff:**
 
-- I'm actively looking for a job as a Software Developer where i can stand up and show my skills and commitment with the industry;
-- I'm currently learning some WordPress, C# and Unity;
-- How to reach me: jdpa352@gmail.com;
-- [Resume](https://drive.google.com/file/d/1S0iwwweiYGrcZ6KfJCnBFFkDP5TjZcI0/view?usp=sharing);
-- [Certifications](https://drive.google.com/drive/folders/1ZFPiIJMITYd-HenxP1KhhyC5tlkwv9yg?usp=sharing);
+- 👨🏽‍💻 I'm actively looking for a job as a Software Developer where i can stand up and show my skills and commitment with the industry;
+- 🌱 I'm currently learning some WordPress, C# and Unity;
+- 📮 How to reach me: jdpa352@gmail.com;
+- 📝 [Resume](https://drive.google.com/file/d/1S0iwwweiYGrcZ6KfJCnBFFkDP5TjZcI0/view?usp=sharing);
+- ⚡️ [Certifications](https://drive.google.com/drive/folders/1ZFPiIJMITYd-HenxP1KhhyC5tlkwv9yg?usp=sharing);
+- 📈 [UserStats](https://coderstats.net/github/#Jdpa357)
 
 **Languages and Tools:**
 
