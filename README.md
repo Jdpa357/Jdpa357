@@ -9,7 +9,7 @@
   <img align="left" alt="Juan Portilla  LinkdeIN" width="22px" src="https://cdn.cdnlogo.com/logos/l/66/linkedin-icon.svg" />
 </a>
 <a href="https://t.me/Jdpa352">
-  <img align="left" alt="Juan Portilla Telegram" width="22px" src="https://cdn.cdnlogo.com/logos/t/37/telegram.svg" />
+  <img align="left" alt="Juan Portilla Telegram" width="22px" src="https://cdn.cdnlogo.com/logos/t/57/telegram-2019.svg" />
 </a>
 
 <br />
