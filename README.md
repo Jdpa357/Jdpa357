@@ -3,13 +3,13 @@
 <br/>
 
 <a href="https://twitter.com/JDavid357">
-  <img align="left" alt="Juan Portilla | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="Juan Portilla | Twitter" width="22px" src="https://cdn.cdnlogo.com/logos/t/96/twitter-icon.svg" />
 </a>
 <a href="https://www.linkedin.com/in/jdpa352/">
-  <img align="left" alt="Juan Portilla  LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Juan Portilla  LinkdeIN" width="22px" src="https://cdn.cdnlogo.com/logos/l/66/linkedin-icon.svg" />
 </a>
 <a href="https://t.me/Jdpa352">
-  <img align="left" alt="Juan Portilla Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+  <img align="left" alt="Juan Portilla Telegram" width="22px" src="https://cdn.cdnlogo.com/logos/t/37/telegram.svg" />
 </a>
 
 <br />
