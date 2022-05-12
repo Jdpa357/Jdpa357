@@ -35,7 +35,7 @@ Hi, I'm Juan Portilla a Full Stack Software  Developer 🚀 from Colombia, recen
 <code><img height="20" title="Javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" title="Python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" title="MySQL" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" title="MongoDB" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKP4KNGMR9Rfu1Jp_q-blZ1o5Nb4B0_mkOctEiyTeEJVVxBCVrU6vmloDn7z_1AF2K82c&usqp=CAU">
+<code><img height="20" title="MongoDB" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKP4KNGMR9Rfu1Jp_q-blZ1o5Nb4B0_mkOctEiyTeEJVVxBCVrU6vmloDn7z_1AF2K82c&usqp=CAU"></code>
 <code><img height="20" title="Git" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" title="Terminal" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <code><img height="20" title="JQuery" src="https://w7.pngwing.com/pngs/146/567/png-transparent-jquery-in-easy-steps-create-dynamic-web-pages-logo-brand-design-label-text-logo.png"></code>
