@@ -38,7 +38,7 @@ Hi, I'm Juan Portilla a Full Stack Software  Developer 🚀 from Colombia, recen
 <code><img height="20" title="MongoDB" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKP4KNGMR9Rfu1Jp_q-blZ1o5Nb4B0_mkOctEiyTeEJVVxBCVrU6vmloDn7z_1AF2K82c&usqp=CAU"></code>
 <code><img height="20" title="Git" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" title="Terminal" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-<code><img height="20" title="JQuery" src="https://w7.pngwing.com/pngs/146/567/png-transparent-jquery-in-easy-steps-create-dynamic-web-pages-logo-brand-design-label-text-logo.png"></code>
+<code><img height="20" title="JQuery" src="https://icon-library.com/images/jquery-icon-png/jquery-icon-png-2.jpg"></code>
 <code><img height="20" title="PHP" src="https://cdn3.iconfinder.com/data/icons/popular-services-brands/512/php-512.png"></code>
 <code><img height="20" title="HTML5" src="https://icons-for-free.com/iconfiles/png/512/develop+html+language+layout+markup+programming+icon-1320165729268863150.png"></code>
 <code><img height="20" title="CSS3" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_960_720.png"></code>
