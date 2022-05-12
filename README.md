@@ -25,7 +25,7 @@ Hi, I'm Juan Portilla a Full Stack Software  Developer 🚀 from Colombia, recen
 - 🌱 I'm currently learning some WordPress, C# and Unity;
 - 📮 How to reach me: jdpa352@gmail.com;
 - 💻 [PersonalWebPage](https://jdpa357.github.io/)
-- 📝 [Resume](https://drive.google.com/file/d/1S0iwwweiYGrcZ6KfJCnBFFkDP5TjZcI0/view?usp=sharing);
+- 📝 [Resume](https://drive.google.com/file/d/1UjRKzoqpGnP386NYpahgxPaf_jGlwQd0/view?usp=sharing);
 - ⚡️ [Certifications](https://drive.google.com/drive/folders/1ZFPiIJMITYd-HenxP1KhhyC5tlkwv9yg?usp=sharing);
 - 📈 [UserStats](https://coderstats.net/github/#Jdpa357)
 - 💎 [EfsetCertificate](https://www.efset.org/cert/JyCmaK)
