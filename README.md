@@ -15,17 +15,17 @@
 <br />
 <br />
 
-Hi, I'm Juan Portilla a Full Stack Software  Developer 🚀 from Colombia, recently graduated from Holberton School of Software Development computer science Foundations 👨🏽‍💻, And a certified Technologist on Software Analisis and Development from the Servicio Nacional de Aprendizaje (SENA Colombia). Besides programming i enjoy annoying my pet and walking out with her 🐕!
+Hi, I'm Juan Portilla a Software Engineer (BackEnd) 🚀 from Colombia, Graduated from Holberton School of Software Development computer science Foundations 👨🏽‍💻, And a certified Technologist on Software Analisis and Development from the Servicio Nacional de Aprendizaje (SENA Colombia). Besides programming i enjoy annoying my pet and walking out with her 🐕!
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/U6GtKidGrwnOTLQew9/giphy.gif" />
 
 **Talking about some Personal Stuff:**
 
 - 👨🏽‍💻 I'm actively looking for a job as a Software Developer where i can stand up and show my skills and commitment with the industry;
-- 🌱 I'm currently learning some WordPress, C# and Unity;
-- 📮 How to reach me: jdpa352@gmail.com;
+- 🌱 I'm currently learning some WordPress, C# and enhancing my Java skill;
+- 📮 How to reach me: jdpa352@hotmail.es;
 - 💻 [PersonalWebPage](https://jdpa357.github.io/)
-- 📝 [Resume](https://drive.google.com/file/d/1UjRKzoqpGnP386NYpahgxPaf_jGlwQd0/view?usp=sharing);
+- 📝 [Resume](https://drive.google.com/file/d/1x5Q80Z-T-Q9m4ejG41am_PYgA6LxPCK8/view?usp=drive_link);
 - ⚡️ [Certifications](https://drive.google.com/drive/folders/1ZFPiIJMITYd-HenxP1KhhyC5tlkwv9yg?usp=sharing);
 - 📈 [UserStats](https://coderstats.net/github/#Jdpa357)
 - 💎 [EfsetCertificate](https://www.efset.org/cert/JyCmaK)
